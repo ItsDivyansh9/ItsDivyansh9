@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsDivyansh9
-- 👀 I’m interested in coding cool Discord Bots
-- 🌱 I’m currently learning Node.js
-- 📫 I am very active on Discord, My ID: ItsDivyansh#5099
+- 👀 I’m interested in playing Minecraft
+- 🌱 I’m currently learning Python
+- 📫 I am very active on Discord, My ID: Impossible#5099
 
 <!---
 ItsDivyansh9/ItsDivyansh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
