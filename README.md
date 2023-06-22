@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ItsDivyansh9
+- 👋 Hi, I’m @oImpossible
 - 👀 I play Minecraft alot
-- 🌱 I’m currently making Discord Bots
+- 🌱 I’m currently trying to make Discord Bots
 - 📫 Contact me on Discord [Impossible#5099]
 
 <!---
