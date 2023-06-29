@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @oImpossible
+- 👋 Hi, I’m @ItsDivyansh009
 - 👀 I play Minecraft alot
-- 🌱 I’m currently trying to make Discord Bots
-- 📫 Contact me on Discord [Impossible#5099]
+- 📫 Contact me on [Twitter](https://twitter.com/ItsDivyansh009)
 
 <!---
 ItsDivyansh9/ItsDivyansh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
